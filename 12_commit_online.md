@@ -1,5 +1,7 @@
 # Make commit online
 
+...
+
 This page will show you how to make commits to the remote repository on GitHub directly from the web browser. If you only have small changes to make to a small number of files, this can be faster than doing it with your local repository.
 
 ## Task 1 Edit this file
